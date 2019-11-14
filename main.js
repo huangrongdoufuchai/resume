@@ -34,7 +34,7 @@ let resume = `# 刘翼
 ### 简历生成器
 - 关键词：\`JavaScript\`、\`Promise\`、\`变速\`、\`过渡动画\`、\`盒阴影\`
 - 描述：该项目实现了一个 Markdown 简历的制作过程，在原生 JS 中使用 Promise 处理异步操作，利用 CSS3 实现过渡、动画、阴影和弹性布局等。
-- [源码链接](https://github.com/huangrongdoufuchai/resume/main.js) | [预览链接](https://huangrongdoufuchai.github.io/resume/)
+- [源码链接](https://github.com/huangrongdoufuchai/resume/blob/master/main.js) | [预览链接](https://huangrongdoufuchai.github.io/resume/)
 
 ### 导航网站
 - 关键词：\`CSS 布局\`、\`媒体查询\`、\`jQuery\`、\`阻止冒泡\`、\`localStorage\`
